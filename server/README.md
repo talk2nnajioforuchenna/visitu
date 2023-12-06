@@ -23,7 +23,7 @@ To get visitu running locally, follow these steps:
 #### 1. Clone the repository
 
 ```
-git clone [repository link]
+git clone https://github.com/talk2nnajioforuchenna/visitu.git
 ```
 
 #### 2. Navigate to the project directory
